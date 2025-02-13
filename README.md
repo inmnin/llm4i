@@ -10,7 +10,6 @@ GoT思维图：[https://arxiv.org/abs/2308.09687]
 FoT思维森林:[https://arxiv.org/abs/2412.09078]
 
 *special*
-
 BoT思维链缓冲区 https://arxiv.org/abs/2406.04271
 
 ### 使用蒙特卡洛搜索的思维链
