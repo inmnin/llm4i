@@ -10,19 +10,20 @@ GoT思维图：[https://arxiv.org/abs/2308.09687]
 FoT思维森林:[https://arxiv.org/abs/2412.09078]
 
 *special*
+
 BoT思维链缓冲区 https://arxiv.org/abs/2406.04271
 
 ### 使用蒙特卡洛搜索的思维链
 
-蒙特卡洛树
+##### 蒙特卡洛树
 
 EoT/XoT-Everything of Thought:[https://arxiv.org/pdf/2311.04254]
 
-蒙特卡洛+self-refine+过程奖励模型（这篇研究的是小模型推理）
+##### 蒙特卡洛+self-refine+过程奖励模型（这篇研究的是小模型推理）
 
 Rstar:https://arxiv.org/abs/2501.04519.
 
-树搜索+过程奖励模型（prm）
+##### 树搜索+过程奖励模型（prm）
 
 Scaling LLM Test-Time Compute Optimally can be More Effective than Scaling Model Parameters
 
