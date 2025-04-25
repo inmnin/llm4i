@@ -30,7 +30,8 @@
 #### 研究点1：first is best现象的发现与理论分析
 **first answer->first solution**
 我们在GPQA（科学知识推理任务）上进行了测试，同样的发现了first is best的现象，过度的交叉检验反思有带偏原有正确solution的问题。
-![[截屏2025-04-25 11.45.07.png]]
+![Uploading 截屏2025-04-25 11.48.51.png…]()
+
 我们或许可以推测，在其他的任务上，比如常识推理，符号逻辑推理上也有一样的现象呢？
 更进一步，在ground truth不唯一的任务上，比如code任务上，是不是也存在着这种现象？first solution是代码结构最简洁，规范，时间复杂度最低的solution?
 甚至是在无ground truth的任务上，比如写作任务，是不是 first solution最在文学意义上 是最优的。
@@ -49,7 +50,8 @@ first is best的现象可能在r1-like模型中广泛存在。
 如果correct answer已经生成，多次诱导得到的answer应该相同，如果correct answer在当前思维链的上下文中还没有生成，则其倾向于给出随机答案。
 
 ### 目前的实验结果
-![[截屏2025-04-25 11.42.21.png]]
+![Uploading 截屏2025-04-25 11.49.19.png…]()
+
 - 拟进一步对baseline众多，也更加轻量化的的qwq-32b模型进行测试。
 - 拟进一步对除了math问题以外的其他问题进行测试。
 ### 未来研究的问题
