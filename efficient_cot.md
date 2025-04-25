@@ -30,7 +30,8 @@
 #### 研究点1：first is best现象的发现与理论分析
 **first answer->first solution**
 我们在GPQA（科学知识推理任务）上进行了测试，同样的发现了first is best的现象，过度的交叉检验反思有带偏原有正确solution的问题。
-![Uploading 截屏2025-04-25 11.48.51.png…]()
+![Uploading 截屏2025-04-25 11.50.20.png…]()
+
 
 我们或许可以推测，在其他的任务上，比如常识推理，符号逻辑推理上也有一样的现象呢？
 更进一步，在ground truth不唯一的任务上，比如code任务上，是不是也存在着这种现象？first solution是代码结构最简洁，规范，时间复杂度最低的solution?
