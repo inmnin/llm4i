@@ -51,7 +51,8 @@ first is best的现象可能在r1-like模型中广泛存在。
 如果correct answer已经生成，多次诱导得到的answer应该相同，如果correct answer在当前思维链的上下文中还没有生成，则其倾向于给出随机答案。
 
 ### 目前的实验结果
-![Uploading 截屏2025-04-25 11.49.19.png…]()
+<img width="456" alt="截屏2025-04-25 11 50 51" src="https://github.com/user-attachments/assets/76f79519-2be6-4091-aaec-c6ff25d430d7" />
+
 
 - 拟进一步对baseline众多，也更加轻量化的的qwq-32b模型进行测试。
 - 拟进一步对除了math问题以外的其他问题进行测试。
