@@ -25,7 +25,8 @@
 交叉检验（不可靠的反思）：
 模型使用另外一种方法，将题目重新做一遍，然后得出新的答案，再与first answer进行比较。
 模型的first answer往往会倾向于使用简单的方法解题，因此正确率很高，而模型的second answer/third answer...会倾向于使用复杂，怪辟的方法解题，出错的概率比较高，一旦推出了错误的答案，将带偏原本正确的first answer，带来极大的风险。
-![[截屏2025-04-25 11.43.53.png]]
+<img width="677" alt="截屏2025-04-25 11 48 13" src="https://github.com/user-attachments/assets/5a5ee60e-5b00-488c-8d34-369e4f066ee3" />
+
 #### 研究点1：first is best现象的发现与理论分析
 **first answer->first solution**
 我们在GPQA（科学知识推理任务）上进行了测试，同样的发现了first is best的现象，过度的交叉检验反思有带偏原有正确solution的问题。
