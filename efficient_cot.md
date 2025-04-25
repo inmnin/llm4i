@@ -30,7 +30,7 @@
 #### 研究点1：first is best现象的发现与理论分析
 **first answer->first solution**
 我们在GPQA（科学知识推理任务）上进行了测试，同样的发现了first is best的现象，过度的交叉检验反思有带偏原有正确solution的问题。
-![Uploading 截屏2025-04-25 11.51.33.png…]()
+<img width="692" alt="截屏2025-04-25 11 52 09" src="https://github.com/user-attachments/assets/0fd174a4-7870-419c-a67e-6a5f6c71e3af" />
 
 
 我们或许可以推测，在其他的任务上，比如常识推理，符号逻辑推理上也有一样的现象呢？
